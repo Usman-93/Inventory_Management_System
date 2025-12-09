@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\usmanrahat(agileanal\\documents\\usman_projects\\repos\\.net_repos\\ims\\ims.webapp\\components\\controls\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\usmanrahat(agileanal\\documents\\usman_projects\\repos\\.net_repos\\ims\\ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\usmanrahat(agileanal\\documents\\usman_projects\\repos\\.net_repos\\ims\\ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\usmanrahat(agileanal\\documents\\usman_projects\\repos\\.net_repos\\ims\\ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\usmanrahat(agileanal\\documents\\usman_projects\\repos\\.net_repos\\ims\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,23 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryListItemComponent.razor",
+              "DocumentMoniker": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "ToolTip": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T11:45:26.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T11:44:42.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryListComponent.razor",
+              "DocumentMoniker": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "ToolTip": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T11:42:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryList.razor",
+              "DocumentMoniker": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "ToolTip": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T11:29:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Program.cs",
               "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
               "ToolTip": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Program.cs",
               "RelativeToolTip": "IMS.WebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T08:21:06.527Z",
+              "WhenOpened": "2025-12-09T11:29:54.916Z",
               "EditorCaption": ""
             }
           ]

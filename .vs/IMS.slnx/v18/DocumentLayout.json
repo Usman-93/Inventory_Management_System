@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|c:\\users\\usmanrahat(agileanal\\documents\\usman_projects\\repos\\.net_repos\\ims\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED317642-421B-C368-96DC-E39DC34EDB37}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\UsmanRahat(AgileAnal\\Documents\\Usman_Projects\\Repos\\.NET_repos\\IMS\\IMS.WebApp\\Program.cs",
-              "RelativeToolTip": "IMS.WebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T08:21:06.527Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
